@@ -9,7 +9,7 @@ Leetcode 463: IslandPerimeter.
 
 # grid = [[0, 1, 0, 0], [1, 1, 1, 0], [0, 1, 0, 0], [1, 1, 0, 0]]
 grid = [[0, 1]]
-global count
+count
 
 
 def dfs(i, j):

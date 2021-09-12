@@ -13,8 +13,7 @@ grid = [[1, 1, 1, 1, 1, 1, 1, 0],
         [1, 0, 0, 0, 0, 1, 0, 1],
         [1, 1, 1, 1, 1, 1, 1, 0]]
 
-global closed
-global count
+closed
 
 def dfs(i, j):
     if i < 0 or j < 0 or i >= len(grid) or j >= len(grid[0]):
