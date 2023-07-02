@@ -28,3 +28,4 @@ class UnionFind():
     
     def getCount(self):
         return self.count
+
