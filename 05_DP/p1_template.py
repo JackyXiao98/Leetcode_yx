@@ -26,7 +26,7 @@ def fib_array(n):
 
 
 if __name__ == '__main__':
-    n = 7
+    n = 8
     result = fib_memo(n)
     print(result)
 
